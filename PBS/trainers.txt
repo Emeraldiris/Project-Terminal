@@ -1,0 +1,302 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[BREAKDANCER,Urban]
+LoseText = That was the fuckin BOMB!
+Pokemon = CHESPIN,12
+    Name = Chedder
+    Gender = female
+    Moves = ROCKSMASH,ROCKTOMB,BULKUP,VINEWHIP
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 18,18,18,18,18,18
+Pokemon = CROAGUNK,12
+    Name = Froag
+    Gender = male
+    Moves = POISONJAB,ROCKSMASH,FAKEOUT,BRUTALSWING
+    AbilityIndex = 2
+    Item = ORANBERRY
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 18,18,18,18,18,18
+Pokemon = MIENFOO,13
+    Name = Jack
+    Gender = male
+    Moves = FAKEOUT,ACROBATICS,BRICKBREAK,ROCKTOMB
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 18,18,18,18,18,18
+Pokemon = HITMONTOP,13
+    Name = Breakdance
+    Gender = male
+    Shiny = yes
+    Moves = BRICKBREAK,BRUTALSWING,RAPIDSPIN,BULLDOZE
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 10,10,10,10,10,10
+    EV = 18,18,18,18,18,18
+Pokemon = KUBFU,14
+    Name = Karate Kid
+    Moves = ROCKSMASH,BULKUP,AERIALACE,ICEPUNCH
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = JOLLY
+    IV = 10,10,10,10,10,10
+    EV = 18,20,18,20,18,18
+    Ball = ULTRABALL
+Pokemon = HERACROSS,16
+    Name = Hermes
+    Gender = male
+    Moves = BUGBITE,BULLDOZE,ARMTHRUST,FACADE
+    AbilityIndex = 1
+    Item = FLAMEORB
+    Nature = ADAMANT
+    IV = 15,20,15,20,15,15
+    EV = 10,25,10,25,10,10
+    Ball = LUXURYBALL
+#-------------------------------
+[BUGFAN,Mandy]
+LoseText = Grrrrrrrrr
+Pokemon = SHUCKLE,20
+    Name = Mango
+    Gender = female
+    Moves = TOXIC,PROTECT,INFESTATION,REST
+    AbilityIndex = 0
+    Item = BERRYJUICE
+    Nature = SERIOUS
+    IV = 12,12,12,12,12,12
+    EV = 20,20,20,20,20,20
+    Ball = GREATBALL
+Pokemon = LARVESTA,20
+    Name = Jalepeno
+    Gender = male
+    Moves = INCINERATE,SIGNALBEAM,GIGADRAIN,WILLOWISP
+    AbilityIndex = 0
+    Item =CHARCOAL
+    Nature = SERIOUS
+    IV = 12,12,12,12,12,12
+    EV = 18,18,20,20,25,18
+    Ball = ULTRABALL
+Pokemon = YANMEGA,20
+    Name = Melon
+    Gender = male
+    Moves = BUGBUZZ,GIGADRAIN,AIRSLASH,HIDDENPOWER
+    AbilityIndex = 0
+    Item = BERRYJUICE
+    Nature = TIMID
+    IV = 21,21,21,21,22,22
+    EV = 20,20,20,30,30,20
+    Ball = NETBALL
+Pokemon = GOLISOPOD,20
+    Name = Guava
+    Gender = female
+    Moves = FIRSTIMPRESSION,LIQUIDATION,LEECHLIFE,BRICKBREAK
+    AbilityIndex = 0
+    Item = BERRYJUICE
+    Nature = JOLLY
+    IV = 20,20,20,20,20,20
+    EV = 20,30,30,20,20,30
+    Ball = QUICKBALL
+Pokemon = DURANT,20
+    Name = DURIAN
+    Gender = female
+    Moves = FIRSTIMPRESSION,FEINTATTACK,IRONHEAD,ROCKTOMB
+    AbilityIndex = 0
+    Item = OCCABERRY
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 20,30,30,20,20,20
+    Ball = NETBALL
+Pokemon = RIBOMBEE,21
+    Name = Peach 
+    Gender = male
+    Moves = POLLENPUFF,DRAININGKISS,CALMMIND,MAGICALLEAF
+    AbilityIndex = 0
+    Item = FAIRYGEM
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 20,20,20,100,100,20
+    Ball = ULTRABALL
+#-------------------------------
+[STONER,Kayla]
+LoseText = That was metal as fuck lil guy
+DoubleBattle = yes
+Pokemon = FERROSEED,25
+    Name = Spikes
+    Gender = male
+    Moves = GYROBALL,SELFDESTRUCT,STEALTHROCK,TOXIC
+    AbilityIndex = 0
+    Item = ROCKYHELMET
+    Nature = RELAXED
+    IV = 20,20,20,0,20,20
+    EV = 30,20,30,0,20,20
+    Ball = NESTBALL
+Pokemon = COMFEY,25
+    Name = TrueColors
+    Gender = female
+    Moves = AROMATHERAPY,FLORALHEALING,LEECHSEED,DRAININGKISS
+    AbilityIndex = 1
+    Item = BIGROOT
+    Nature = TIMID
+    IV = 20,20,20,20,20,20
+    EV = 40,20,30,30,30,30
+    Ball = NESTBALL
+Pokemon = LEAFEON,25
+    Name = Lettuce
+    Gender = male
+    Moves = LEAFBLADE,RAINDANCE,SWORDSDANCE,YAWN
+    AbilityIndex = 0
+    Item = MIRACLESEED
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    EV = 20,60,20,60,20,20
+    Ball = LUXURYBALL
+Pokemon = VILEPLUME,25
+    Name = Smellyhedd
+    Gender = female
+    Moves = STRENGTHSAP,GIGADRAIN,SLEEPPOWDER,VENOSHOCK
+    AbilityIndex = 1
+    Item = BERRYJUICE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 60,20,20,20,60,20
+    Ball = NESTBALL
+Pokemon = CRADILY,25
+    Name = Omnom
+    Gender = male
+    Moves = TOXIC,GIGADRAIN,ANCIENTPOWER,RECOVER
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    Nature = BOLD
+    IV = 20,20,20,20,20,20
+    EV = 60,20,40,20,40,60
+    Ball = GREATBALL
+Pokemon = LUDICOLO,27
+    Name = Groover
+    Gender = female
+    Shiny = Yes
+    Moves = RAINDANCE,GIGADRAIN,ICEBEAM,FAKEOUT
+    AbilityIndex = 0
+    Item = DAMPROCK
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 60,0,60,100,0,60
+    Ball = NESTBALL
